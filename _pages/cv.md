@@ -1,11 +1,17 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-
-toc:
-  sidebar: left
 ---
+
+<iframe
+  src="/assets/pdf/example_pdf.pdf"
+  width="100%"
+  height="1000px"
+  style="border: none;">
+</iframe>
+
+[Download CV (PDF)](/assets/pdf/example_pdf.pdf)
+
