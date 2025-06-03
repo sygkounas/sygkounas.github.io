@@ -6,12 +6,11 @@ nav: true
 nav_order: 5
 ---
 
-<iframe
-  src="/assets/pdf/example_pdf.pdf"
-  width="100%"
-  height="1000px"
-  style="border: none;">
-</iframe>
+# Curriculum Vitae
 
-[Download CV (PDF)](/assets/pdf/example_pdf.pdf)
+You can download my CV below:
+
+<a href="/assets/pdf/example_pdf.pdf" class="btn btn-primary" target="_blank" style="margin-top: 20px;">
+  📄 Download CV (PDF)
+</a>
 
