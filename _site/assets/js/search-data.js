@@ -474,17 +474,17 @@ ninja.data = [{
         },
       },{
         id: 'social-linkedin',
-        title: 'LinkedIn',
+        title: 'Linkedin',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/alkis-sygkounas-57539b221", "_blank");
+          window.open("", "_blank");
         },
       },{
         id: 'social-github',
-        title: 'GitHub',
+        title: 'Github',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/sygkounas", "_blank");
+          window.open("", "_blank");
         },
       },{
         id: 'social-scholar',
